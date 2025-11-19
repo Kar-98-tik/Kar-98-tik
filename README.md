@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Car Tick</h1>
+<h1 align="center">Hi 👋, I'm Kartik Prayagi</h1>
 <h3 align="center">🚀 Passionate Data Science Student | AI & LLM Enthusiast | Backend Developer</h3>
 
 ---
@@ -48,11 +48,11 @@ SQL expertise included ✔️
 
 ### 🌍 Connect With Me
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="www.linkedin.com/in/kartik-prayagi-46a915271">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:kartikprayagi0@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
