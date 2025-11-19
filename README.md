@@ -1,16 +1,79 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Car Tick</h1>
+<h3 align="center">🚀 Passionate Data Science Student | AI & LLM Enthusiast | Backend Developer</h3>
 
-<!--
-**Kar-98-tik/Kar-98-tik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 💡 About Me  
+🌟 Passionate Data Science student with a strong foundation in Machine Learning, Generative AI, and Large Language Models (LLMs).  
+💻 Skilled in Python, data analysis, backend development, and building intelligent data-driven applications.  
+📊 Focused on developing scalable pipelines for data preprocessing, model training, evaluation & deployment.  
+🎯 Motivated by deriving actionable insights that enhance real-world decision-making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+
+#### 👨‍💻 Programming Languages:
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js" />
+</p>
+
+#### 🏗️ Back-End Development:
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,django" />
+</p>
+
+#### 🤖 AI & LLM Tools:
+- LangChain, LangGraph, LlamaIndex  
+- RAG, Embedding Models  
+- FAISS & Vector Databases  
+
+#### 🗄️ Databases:
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+SQL expertise included ✔️
+
+#### ☁️ Cloud Platforms:
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+#### 🧩 Tools:
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,powerbi" />
+</p>
+
+---
+
+### 📊 GitHub Analytics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+<p>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+### ✨ Fun Note  
+💡 Always curious. Always learning.  
+🤖 Transforming ideas into AI-powered reality!
+
+---
+
+⭐ *If you like what I do, consider giving a star to my repositories!* ⭐
